@@ -8,19 +8,19 @@
 		"python",
 		"telethon"
 	],
-	"repository": "https://github.com/mrlord3/Galasat",
+	"repository": "https://github.com/IamMr7/VR-G.git",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
-            "value": "6970885444:AAHYfjj3JuGkl763Kk3kG2_NwIrpLpZ55mk"
+            "value": ""
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
-            "value": "0687c1437fdafaa9e8be8ee6b798bdc6"
+            "value": ""
         },
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org",
-            "value": "11560169"
+            "value": ""
 	   }
 	},
 	"buildpacks": [
